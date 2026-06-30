@@ -36,15 +36,13 @@
 <img src="https://skillicons.dev/icons?i=git,github,html,css,js,react"/>
 
 </p>
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shreyas2316&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas2316&layout=compact&theme=tokyonight"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shreyas2316&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas2316&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -59,14 +57,20 @@
 <img src="https://komarev.com/ghpvc/?username=Shreyas2316&label=Profile+Views&color=0e75b6&style=flat"/>
 
 </p>
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🚌 Bus Tracker | Live location tracking application |
-| 🔐 Arduino Vault | Secure PIN generation system |
-| 🎵 Raspberry Pi | Video to Audio Converter |
-| 🛒 ClothZa | E-commerce Website |
+- 🚌 **Bus Tracker**
+  - Live Bus Tracking using React Native & Firebase
+
+- 🔐 **Arduino Smart Vault**
+  - Password Protected Arduino Security System
+
+- 🛒 **ClothZa**
+  - Full Stack E-commerce Website
+
+- 🎵 **Raspberry Pi Audio Converter**
+  - Video to Audio Converter using Raspberry Pi
+    
 # 🏆 Coding Profiles
 
 <p align="center">
@@ -90,15 +94,33 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Shreyas2316/Shreyas2316/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
 ## 📈 Contribution Graph
 
-[Activity Graph Here]
-[GitHub Trophies Here]
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyas2316&theme=tokyo-night&hide_border=true"/>
+</p>
+  
+## 🏆 GitHub Trophies
 
-💬 Random Dev Quote
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Shreyas2316&theme=tokyonight&no-frame=true&margin-w=15"/>
+</p>
+
+## 💬 Random Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-⭐ Thanks for visiting!
+---
 
-Let's build something awesome together 🚀
+<h3 align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+Let's connect and build something awesome together 🚀
+
+</h3>
