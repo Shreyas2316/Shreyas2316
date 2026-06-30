@@ -1,5 +1,7 @@
 <div align="center">
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:203a43,100:2c5364&text=Shreyas%20G&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Java%20Developer&descAlignY=55"/>
+</p>
 # 👋 Hey there, I'm Shreyas G
 
 ### 💻 Backend Developer | ☕ Java Developer | 🚀 Problem Solver
@@ -23,16 +25,24 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,nodejs,express,mongodb,mysql,git,github,html,css,js,react,firebase,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,html,css,js,react"/>
 
 </p>
 # 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shreyas2316&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shreyas2316&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas2316&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas2316&layout=compact&theme=tokyonight"/>
 
 </p>
 # 🔥 GitHub Streak
@@ -74,3 +84,15 @@
 </a>
 
 </p>
+## 📈 Contribution Graph
+
+[Activity Graph Here]
+[GitHub Trophies Here]
+
+💬 Random Dev Quote
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Thanks for visiting!
+
+Let's build something awesome together 🚀
