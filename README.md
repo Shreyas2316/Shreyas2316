@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:203a43,100:2c5364&text=G20%Shreyas&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Java%20Developer&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:203a43,100:2c5364&text=G%20%Shreyas&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Java%20Developer&descAlignY=55"/>
 </p>
   
 # 👋 Hey there, I'm G Shreyas
