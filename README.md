@@ -2,6 +2,7 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:203a43,100:2c5364&text=Shreyas%20G&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Java%20Developer&descAlignY=55"/>
 </p>
+  
 # 👋 Hey there, I'm Shreyas G
 
 ### 💻 Backend Developer | ☕ Java Developer | 🚀 Problem Solver
@@ -11,6 +12,7 @@
 </div>
 
 ---
+
 # 🧠 About Me
 
 - 🎓 B.Tech Computer Science Student
@@ -21,6 +23,8 @@
 - 📱 React Native Learner
 - 💡 Love solving DSA problems on LeetCode
 - 🎯 Goal: Become a Software Engineer at a Product-Based Company
+
+  
 # ⚙️ Tech Stack
 
 <p align="center">
@@ -36,6 +40,7 @@
 <img src="https://skillicons.dev/icons?i=git,github,html,css,js,react"/>
 
 </p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -50,6 +55,7 @@
 <img src="https://streak-stats.demolab.com?user=Shreyas2316&theme=tokyonight"/>
 
 </p>
+
 # 👀 Visitors
 
 <p align="center">
@@ -57,6 +63,7 @@
 <img src="https://komarev.com/ghpvc/?username=Shreyas2316&label=Profile+Views&color=0e75b6&style=flat"/>
 
 </p>
+
 ## 🚀 Featured Projects
 
 - 🚌 **Bus Tracker**
@@ -70,7 +77,8 @@
 
 - 🎵 **Raspberry Pi Audio Converter**
   - Video to Audio Converter using Raspberry Pi
-    
+
+  
 # 🏆 Coding Profiles
 
 <p align="center">
