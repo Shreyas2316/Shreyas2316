@@ -68,21 +68,27 @@
 
   🤖 **Telegram Search Bot** 
   - Real-time Telegram bot for searching the internet and delivering instant results.
+
     
   🔐 **Arduino Smart Vault** 
   - Password-protected smart vault using Arduino for secure access control.
+
     
   🛒 **ClothZa** 
   - Full-stack e-commerce website with authentication and product management.
+
     
   🎵 **Raspberry Pi Audio Converter** 
   - Converts video files into audio using Raspberry Pi.
+
     
   🛡️ **ScamShield AI** 
   - Detects phishing URLs, fake news, and scam calls using AI.
+
     
   🛡️ **FraudGuard AI** 
   - Verifies APK integrity and detects malicious or modified Android apps.
+
     
   💬 **Pulse** 
   - Privacy-focused end-to-end encrypted chat platform with secure messaging. | 🚧 In Development |
